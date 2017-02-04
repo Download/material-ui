@@ -1,4 +1,6 @@
 #[Material-UI](http://callemall.github.io/material-ui/)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/material-ui.svg)](https://greenkeeper.io/)
 [![npm package](https://img.shields.io/npm/v/material-ui.svg?style=flat-square)](https://www.npmjs.org/package/material-ui)
 [![Build Status](https://travis-ci.org/callemall/material-ui.svg?branch=master)](https://travis-ci.org/callemall/material-ui)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-f81a65.svg?style=flat-square)](https://gitter.im/callemall/material-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
